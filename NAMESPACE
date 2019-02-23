@@ -1,0 +1,4 @@
+eaaaaa
+aaaa
+aaa
+xportPattern("^[[:alpha:]]+")
